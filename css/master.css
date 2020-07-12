@@ -61,7 +61,8 @@ span
   font-weight: bold;
 }
 .education {
-  margin-left: 25rem;
+  margin-left:auto;
+  margin-right:auto;
 }
 ul
 {
